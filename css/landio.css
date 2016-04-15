@@ -4251,8 +4251,13 @@ a.text-danger:hover {
     background-color: #50b848;
 }
 .bg-faded {
-    background-color: lightblue
+    background-color: #f4f5f7
 }
+
+.section-signup.bg-faded {
+     background-color: lightblue;
+}
+
 .bg-primary {
     color: #fff !important;
     background-color: #BDD735 !important
